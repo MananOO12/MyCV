@@ -83,6 +83,11 @@ p{
   width: 25%;
 }
 
+.languages-img{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
 /* clear: left -- to clear the left description */
 
 .top-cloud{
